@@ -1,3 +1,0 @@
-Poner aca las imagenes de fondo (JPG):
-fondo-inicio.jpg  -> portada y resultados
-fondo1.jpg ... fondo10.jpg -> una por pregunta
